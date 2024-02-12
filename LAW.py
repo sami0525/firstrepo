@@ -4,4 +4,4 @@ c=9
 d =9
 p=0
 print("Hello duniya")
-print("sam is not good at learning")
+print("sam is not good at explaining")
